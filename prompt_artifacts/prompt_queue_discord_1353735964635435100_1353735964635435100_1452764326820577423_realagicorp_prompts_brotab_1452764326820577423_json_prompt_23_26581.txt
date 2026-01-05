@@ -1,0 +1,24 @@
+Prompt ID: prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581
+Timestamp: 2026-01-05T18:37:25.928596Z
+Source: discord
+Queue: prompt_queue::discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json
+Run: 1/1
+Content:
+Discord channel: prompts_brotab
+Channel ID: 1452764326820577423
+Messages aggregated: 1
+Attachments saved for execution (7): attachments/image-16192.png, attachments/image-2afbf.png, attachments/image-5532b.png, ... | mounted at .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581
+Attachment locations:
+- image-16192.png (138537 bytes) -> .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581/image-16192.png
+- image-2afbf.png (94145 bytes) -> .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581/image-2afbf.png
+- image-5532b.png (93226 bytes) -> .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581/image-5532b.png
+- image-77879.png (79577 bytes) -> .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581/image-77879.png
+- image-87dd1.png (87738 bytes) -> .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581/image-87dd1.png
+- image-d581a.png (94914 bytes) -> .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581/image-d581a.png
+- image-dc58a.png (66756 bytes) -> .prompt_attachments/prompt_queue_discord_1353735964635435100_1353735964635435100_1452764326820577423_realagicorp_prompts_brotab_1452764326820577423_json_prompt_23_26581/image-dc58a.png
+
+Discord channel: prompts_brotab | ID: 1452764326820577423 | Reaction filter: :white_check_mark:
+
+Messages with required reaction:
+[1] (2025-12-22T20:48:03.562+00:00 | realagiadmin_29264 | id=1452764649748435013) test/screenshot github pages website in https://github.com/realagiorganization/brotab
+Attachments: image.png: /out/1353735964635435100/_media/image-16192.png ; image.png: /out/1353735964635435100/_media/image-2afbf.png ; image.png: /out/1353735964635435100/_media/image-87dd1.png ; image.png: /out/1353735964635435100/_media/image-5532b.png ; image.png: /out/1353735964635435100/_media/image-77879.png ; image.png: /out/1353735964635435100/_media/image-d581a.png ; image.png: /out/1353735964635435100/_media/image-dc58a.png
